@@ -1,4 +1,4 @@
-import { app } from "./index.js";
+import { app } from "./app.js";
 import { connectDB } from "./data/database.js";
 
 connectDB()
